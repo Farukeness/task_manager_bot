@@ -2,6 +2,7 @@ Küçük ekiplerde görevleri yönetmeye yardımcı olacak bir Discord botu.
 Bot, görev ekleme, silme ve görüntüleme yeteneğine sahip.
 Ayrıca bot, görevleri tamamlanmış olarak işaretleyebiliyor.
 Tüm veriler bir SQLite veritabanında saklanıyor.
+
 ------------------------------------------------ÖZELLİKLER--------------------------------------------
 - **!add_task <description>** — Açıklaması `<description>` olan bir görev ekler.
 - **!delete_task <task_id>** — `<task_id>` tanımlayıcısına sahip görevi siler.
