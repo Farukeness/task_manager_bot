@@ -13,8 +13,8 @@ async def on_ready():
     await create_table()
     
 
-# Komutları yükler
+
 setup_commands(bot)
 
-# Botu başlatın (Discord Developer Portal'dan aldığınız token ile değiştirin)
+
 bot.run("TOKEN")
